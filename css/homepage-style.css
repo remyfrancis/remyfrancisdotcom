@@ -1,0 +1,54 @@
+/* Your custom styles */
+.top-nav-collapse {
+    background-color: #222222 !important; 
+}
+.navbar:not(.top-nav-collapse) {
+    background: transparent!important;
+    box-shadow: none;
+}
+@media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #222222 !important;
+    } 
+}
+.intro-1 {
+    height: 1050px;
+}
+@media (min-width: 770px) and (max-width: 1025px) {
+    .intro-1 {
+        height: 750px;
+    }
+}
+@media (max-width: 740px) {
+    .intro {
+        height: 600px;
+    }
+}
+
+footer.page-footer {
+background-color: #1B1B1B;
+}
+
+section .contact{
+    background-color:#fff;
+}
+
+a:hover{
+    color:#19cf86 !important;
+}
+
+
+body {
+    background-color: #f4f4fa;
+}
+
+button:hover{
+    color: #1B1B1B !important;
+}
+
+.navbar .mega-dropdown .dropdown-menu.mega-menu.v-2 .sub-menu ul li a{
+    color: #19cf86 !important;
+}
+
+
+

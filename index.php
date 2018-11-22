@@ -10,9 +10,9 @@
                     <div class="col-md-12 wow zoomIn mb-3 mx-3">
                         <div class="intro-info-content text-center">
                             <h1 class="display-3 mb-2 white-text wow animated fadeInDown delay-1s">REMY <a class="white-text font-weight-bold">FRANCIS</a></h1>
-                            <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Web & Mobile Developer</h5>
+                            <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Full Stack Web & Mobile Developer</h5>
                             <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">I develop awesome cross-platform mobile web apps and websites.</h5>
-                            <button class="btn btn-success waves-effect btn-lg btn-rounded font-weight-bold wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/proposal.html">Here's What We Do</button> 
+                            <button class="btn btn-success waves-effect btn-lg btn-rounded font-weight-bold wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/proposal.html">Here's What I Do</button> 
                             <h5 class="display-4 white-text animated bounce infinite"><i class="fas fa-angle-down"></i></h5>
                         </div>
                     </div>
@@ -23,54 +23,175 @@
 </div>
 
 <main>
+<!-- First container -->
 <div class="container">
-    
-    <!-- Section: About 1-->
-    <section id="about" class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
 
-        <!-- Grid row -->
-        <div class="row pt-2 mt-lg-5">
+<!-- Section About -->
+<section id="about" class="section feature-box mb-5">
 
-            <!-- Grid column -->
-            <div class="col-lg-6 col-md-12 mb-3 wow fadeIn" data-wow-delay="0.4s">
-                <!-- Image -->
-                <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/macbook.png" class="img-fluid rounded" alt="My photo">
+    <!-- Section title -->
+    <h2 class="text-center text-uppercase my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">About <strong>me</strong></h2>
+
+    <p class="text-center w-responsive mx-auto wow fadeIn my-5" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum quas, eos officia maiores ipsam ipsum dolores reiciendis ad voluptas, animi obcaecati adipisci sapiente mollitia.</p>
+
+    <!-- First row -->
+    <div class="row features-big text-center wow fadeIn" data-wow-delay="0.4s">
+
+        <!-- First column -->
+        <div class="col-md-4 mb-5">
+
+            <!--Panel-->
+            <div class="card card-body hoverable">
+                <i class="fa fa-laptop dark-grey- fa-3x mb-4" aria-hidden="true"></i>
+                <h5 class="font-weight-bold text-uppercase mb-4">Freelancer</h5>
+                <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
             </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-lg-6 ml-auto col-md-12 wow fadeIn" data-wow-delay="0.4s">
-
-                <!-- Secion heading -->
-                <h2 class="mb-5 title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                    <strong>Build your brand with us</strong>
-                </h2>
-
-                <!-- Description -->
-                <p align="justify" class="grey-text">I'm a St. Lucian-based web developer who specializes in:</p>
-                <p class="grey-text">
-                    <i class="fa fa-arrow-right green-text mr-2" aria-hidden="true"></i> Progressive Web Sites</p>
-                <p class="grey-text">
-                    <i class="fa fa-arrow-right green-text mr-2" aria-hidden="true"></i> Progressive Web Applications</p>
-                <p class="grey-text">
-                    <i class="fa fa-arrow-right green-text mr-2" aria-hidden="true"></i> Hybrid Mobile Applications</p>
-            </div>
-            <!-- Grid column -->
+            <!--/.Panel-->
 
         </div>
-        <!-- Grid row -->
+        <!-- /First column -->
 
-    </section>
-    <!-- Section: About 1 -->
+        <!-- Second column -->
+        <div class="col-md-4 mb-5">
 
+            <!--Panel-->
+            <div class="card card-body green hoverable">
+                <i class="fa fa-code dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
+                <h5 class="font-weight-bold text-uppercase mb-4">Developer</h5>
+                <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </div>
+            <!--/.Panel-->
+
+        </div>
+        <!-- /.Second column -->
+
+        <!-- Third column -->
+        <div class="col-md-4 mb-5">
+
+            <!--Panel-->
+            <div class="card card-body hoverable">
+                <i class="fa fa-pencil dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
+                <h5 class="font-weight-bold text-uppercase mb-4">Founder</h5>
+                <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </div>
+            <!--/.Panel-->
+
+        </div>
+        <!-- /.Third column -->
+
+    </div>
+    <!-- /.First row -->
+
+</section>
+<!-- /.Second section -->
 
 </div>
+<!-- /.First container -->
+
 
 <!--Section: Advertising-->
 <div class="container">
     <?php include('advertising.php'); ?>
 </div>
 <!--/Section: Advertising-->
+
+
+<!-- Third container -->
+<div class="container">
+
+<!-- Section About -->
+<section class="section feature-box my-5 pb-5">
+
+    <!-- Section title -->
+    <h2 class="text-center text-uppercase my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">Process of <strong>creating</strong></h2>
+    <p class="text-center w-responsive mx-auto wow fadeIn my-5" data-wow-delay="0.2s"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum quas, eos officia maiores ipsam ipsum dolores reiciendis ad voluptas, animi obcaecati adipisci sapiente mollitia.</p>
+
+        <!-- Nav tabs -->
+        <ul class="nav md-tabs nav-justified elegant-color-dark" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab" href="#panel1" role="tab">01. Free Consultation</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#panel2" role="tab">02. Research & Proposal</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#panel3" role="tab">03. Design</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#panel4" role="tab">04. Development</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#panel5" role="tab">05. Delivery</a>
+            </li>
+        </ul>
+        <!-- Tab panels -->
+        <div class="tab-content card">
+            <!--Panel 1-->
+            <div class="tab-pane fade in show active" id="panel1" role="tabpanel">
+                <br>
+                <div class="row mt-2">
+                    <div class="col-2 text-center"> <i class="fas fa-comments fa-3x mb-1 grey-text" aria-hidden="true"></i> </div>
+                    <div class="col-9 mb-2">
+                        <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit magnam minima, soluta doloribus reiciendis molestiae placeat unde eos molestias. Quisquam aperiam, pariatur. Tempora, placeat ratione porro voluptate odit minima.</p>
+                    </div>
+                </div>
+            </div>
+            <!--/.Panel 1-->
+
+            <!--Panel 2-->
+            <div class="tab-pane fade in show" id="panel2" role="tabpanel">
+                <br>
+                <div class="row mt-2">
+                    <div class="col-2 text-center"> <i class="fas fa-book fa-3x mb-1 grey-text" aria-hidden="true"></i> </div>
+                    <div class="col-9 mb-2">
+                        <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit magnam minima, soluta doloribus reiciendis molestiae placeat unde eos molestias. Quisquam aperiam, pariatur. Tempora, placeat ratione porro voluptate odit minima.</p>
+                    </div>
+                </div>
+            </div>
+            <!--/.Panel 2-->
+
+            <!--Panel 3-->
+            <div class="tab-pane fade" id="panel3" role="tabpanel">
+                <br>
+                <div class="row mt-2">
+                    <div class="col-2 text-center"> <i class="fas fa-pencil-ruler fa-3x mb-1 grey-text" aria-hidden="true"></i> </div>
+                    <div class="col-9 mb-2">
+                        <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit magnam minima, soluta doloribus reiciendis molestiae placeat unde eos molestias. Quisquam aperiam, pariatur. Tempora, placeat ratione porro voluptate odit minima. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+            </div>
+            <!--/.Panel 3-->
+
+            <!--Panel 4-->
+            <div class="tab-pane fade" id="panel4" role="tabpanel">
+                <br>
+                <div class="row mt-2">
+                    <div class="col-2 text-center"> <i class="fa fa-code fa-3x mb-1 grey-text" aria-hidden="true"></i> </div>
+                    <div class="col-9 mb-2">
+                        <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit magnam minima, soluta doloribus reiciendis molestiae placeat unde eos molestias. Quisquam aperiam, pariatur. Tempora, placeat ratione porro voluptate odit minima. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+            </div>
+            <!--/.Panel 4-->
+
+            <!--Panel 5-->
+            <div class="tab-pane fade" id="panel5" role="tabpanel">
+                <br>
+                <div class="row mt-2">
+                    <div class="col-2 text-center"> <i class="fas fa-thumbs-up fa-3x mb-1 grey-text" aria-hidden="true"></i> </div>
+                    <div class="col-9 mb-2">
+                        <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit magnam minima, soluta doloribus reiciendis molestiae placeat unde eos molestias. Quisquam aperiam, pariatur. Tempora, placeat ratione porro voluptate odit minima. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+            </div>
+            <!--/.Panel 5-->
+        </div>
+    <!-- /.Tab panels -->
+</section>
+<!-- /.Section -->
+
+</div>
+<!-- /.Third container -->
 
 
 

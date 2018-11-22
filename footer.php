@@ -59,7 +59,7 @@
           <p style="line-height: 1.7rem">
             <i class="fa fa-map-marker fa-lg"></i> Corinth, Gros-Islet, St. Lucia<br>
             <a href="tel:+17582877459"><i class="fa fa-phone fa-lg"></i> +1-758-287-7459</a><br>
-            <a href="https://wa.me/17582877459/?text=Hi"><i class="fab fa-whatsapp fa-lg"></i> Click to WhatsApp Me!</a><br>
+            <a href="https://api.whatsapp.com/send?text=Hi! I was browsing your website and I'm interested in soliciting your services.&phone=17582877459"><i class="fab fa-whatsapp fa-lg"></i> Click to WhatsApp Me!</a><br>
             <a href="mailto:developer@remyfrancis.com"><i class="fa fa-envelope fa-lg"></i> developer@remyfrancis.com</a>
           </p>
         </div>

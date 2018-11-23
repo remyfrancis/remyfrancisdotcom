@@ -54,9 +54,9 @@
                         <p class="card-text">Partly Cloudy Scattered Showers is an aptly named web application that provides up-to-date weather forecasts utilizing the OpenWeatherAPI for data while the front-end was built using the React library. Honestly though, the forecasts for the temperature are not likely to be all that accurate as the OpenWeatherAPI's temperature data is often wildly inaccurate to real life. However, this was a project made simply to prove functionality. Let's call it a Minimum Viable Product :)</p>
                     
                         <!-- Live Demo -->
-                        <a class="px-2 btn btn-outline-white grey darken-4 btn-lg" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</a>
+                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</a>
                         <!-- Source Code -->
-                        <a class="px-2 btn btn-outline-white grey darken-4 btn-lg" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</a>
+                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</>
         
                     
                         </div>
@@ -87,9 +87,9 @@
                             <p class="card-text">This is a concept of a landing page</p>
                         
                             <!-- Live Demo -->
-                            <a class="px-2 btn btn-outline-white grey darken-4 btn-lg" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</a>
+                            <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</>
                             <!-- Source Code -->
-                            <a class="px-2 btn btn-outline-white grey darken-4 btn-lg" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</a>
+                            <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</b>
             
                         
                             </div>
@@ -120,9 +120,9 @@
                         <p class="card-text">This is a concept of a landing page</p>
 
                         <!-- Live Demo -->
-                        <a class="px-2 btn btn-outline-white grey darken-4 btn-lg" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</a>
+                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</button>
                         <!-- Source Code -->
-                        <a class="px-2 btn btn-outline-white grey darken-4 btn-lg" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</a>
+                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</button>
 
 
                         </div>
@@ -153,9 +153,9 @@
                         <p class="card-text">This is a concept of a landing page</p>
 
                         <!-- Live Demo -->
-                        <a class="px-2 btn btn-outline-white grey darken-4 btn-lg" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</a>
+                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</button>
                         <!-- Source Code -->
-                        <a class="px-2 btn btn-outline-white grey darken-4 btn-lg" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</a>
+                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</but>
 
 
                         </div>

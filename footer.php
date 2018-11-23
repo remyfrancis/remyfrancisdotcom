@@ -10,7 +10,7 @@
         <!-- Grid column -->
         <div class="col-md-2 mb-3">
           <h6 class="text-uppercase font-weight-bold">
-            <a href="#!">About Me</a>
+            <a href="about.php">About Me</a>
           </h6>
         </div>
         <!-- Grid column -->

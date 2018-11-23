@@ -24,69 +24,106 @@
 
 <main>
 <!-- First container -->
-<div class="container">
-
-<!-- Section About -->
-<section id="about" class="section feature-box mb-5">
-
-    <!-- Section title -->
-    <h2 class="text-center text-uppercase my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">About <strong>me</strong></h2>
-
-    <p class="text-center w-responsive mx-auto wow fadeIn my-5" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum quas, eos officia maiores ipsam ipsum dolores reiciendis ad voluptas, animi obcaecati adipisci sapiente mollitia.</p>
-
+<div class="container mt-3">
+    <!-- Section About -->
+    <section id="about" class="section mt-1 mb-3">
+    <!--Secion heading-->
+    <h2 class="text-uppercase text-center font-weight-bold my-4 pt-5 wow fadeIn" data-wow-delay="0.2s">About me</h2>
+    <hr class="between-sections">
     <!-- First row -->
-    <div class="row features-big text-center wow fadeIn" data-wow-delay="0.4s">
-
-        <!-- First column -->
-        <div class="col-md-4 mb-5">
-
-            <!--Panel-->
-            <div class="card card-body hoverable">
-                <i class="fa fa-laptop dark-grey- fa-3x mb-4" aria-hidden="true"></i>
-                <h5 class="font-weight-bold text-uppercase mb-4">Freelancer</h5>
-                <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </div>
-            <!--/.Panel-->
-
+    <div class="row pt-5">
+        <!--First column-->
+        <div class="col-lg-5 col-md-12 wow fadeIn" data-wow-delay="0.4s">
+        <!--Secion heading-->
+        <div class="d-flex justify-content-start">
+            <h4 class="text-center text-uppercase mb-5 wow fadeIn" data-wow-delay="0.2s">Who <strong>I am</strong>?</h4>
         </div>
-        <!-- /First column -->
-
-        <!-- Second column -->
-        <div class="col-md-4 mb-5">
-
-            <!--Panel-->
-            <div class="card card-body green hoverable">
-                <i class="fa fa-code dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
-                <h5 class="font-weight-bold text-uppercase mb-4">Developer</h5>
-                <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </div>
-            <!--/.Panel-->
-
+        <!--Description-->
+        <p class="grey-text mb-3" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam, dicta ab cupiditate iure eaque? Repellendus voluptatum, magni impedit eaque delectus, beatae maxime temporibus maiores quibusdam quasi.Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus in hic molestias repellendus illo ullam odit quia velit. Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus in hic molestias repellendus illo ullam odit quia velit. Qui expedita sit quo, maxime molestiae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
         </div>
-        <!-- /.Second column -->
-
-        <!-- Third column -->
-        <div class="col-md-4 mb-5">
-
-            <!--Panel-->
-            <div class="card card-body hoverable">
-                <i class="fa fa-pencil dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
-                <h5 class="font-weight-bold text-uppercase mb-4">Founder</h5>
-                <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </div>
-            <!--/.Panel-->
-
+        <!--/First column-->
+        <!--Second column-->
+        <div class="col-lg-6 offset-lg-1 col-md-12 mb-5 wow fadeIn" data-wow-delay="0.4s">
+        <!--Second headind-->
+        <div class="d-flex justify-content-start">
+            <h4 class="text-center text-uppercase mb-5 wow fadeIn" data-wow-delay="0.2s">My <strong>Skills</strong></h4>
         </div>
-        <!-- /.Third column -->
-
+        <!--Description-->
+        <p class="black-text text-uppercase font-weight-bold" align="justify">Angular</p>
+        <div class="md-progress">
+            <div class="progress-bar bg-success" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        <p class="black-text text-uppercase font-weight-bold pt-3" align="justify">WordPress & PHP</p>
+        <div class="md-progress">
+            <div class="progress-bar bg-success" role="progressbar" style="width: 65%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        <p class="black-text text-uppercase font-weight-bold pt-3" align="justify">HTML/CSS</p>
+        <div class="md-progress">
+            <div class="progress-bar bg-success" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        <p class="black-text text-uppercase font-weight-bold pt-3" align="justify">React Native</p>
+        <div class="md-progress">
+            <div class="progress-bar bg-success" role="progressbar" style="width: 45%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+        </div>
+        <!--/Second column-->
     </div>
-    <!-- /.First row -->
-
-</section>
-<!-- /.Second section -->
-
+    <!--/First row-->
+    </section>
+    <!-- /.Section About -->
 </div>
 <!-- /.First container -->
+<!-- Second container -->
+<div class="container mb-5">
+    <!--Secion heading-->
+    <h2 class="text-uppercase text-center font-weight-bold my-4 pt-5 wow fadeIn" data-wow-delay="0.2s">What I do</h2>
+    <hr class="between-sections pb-5">
+    <!--First row-->
+    <div class="row  wow fadeIn" data-wow-delay="0.2s">
+    <div class="col-lg-3 col-md-6 text-center mt-1">
+        <div class="icon-area">
+        <div class="circle-icon">
+            <i class="fa fa-desktop fa-3x"></i>
+        </div>
+        <br>
+        <strong>WEBSITE DEVELOPMENT</strong>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6 text-center mt-1">
+        <div class="icon-area">
+        <div class="circle-icon">
+            <i class="fas fa-rocket fa-3x"></i>
+        </div>
+        <br>
+        <strong>HYBRID APP DEVELOPMENT</strong>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6 text-center mt-1">
+        <div class="icon-area">
+        <div class="circle-icon">
+            <i class="fab fa-wordpress fa-3x"></i>
+        </div>
+        <br>
+        <strong>WORDPRESS DEVELOPMENT</strong>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6 text-center mt-1">
+        <div class="icon-area">
+        <div class="circle-icon">
+            <i class="far fa-handshake fa-3x"></i>
+        </div>
+        <br>
+        <strong>SUPPORT SERVICES</strong>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+        </div>
+    </div>
+    </div>
+    <!--/First row-->
+</div>
+<!-- Second container -->
 
 
 <!--Section: Advertising-->
@@ -96,6 +133,263 @@
 <!--/Section: Advertising-->
 
 
+<!--Projects section v.2-->
+<section id="portfolio" class="section mt-2 pb-5 mb-4">
+    <div class="container">
+    <!--Section heading-->
+    <div class="row mt-4">
+        <div class="col-md-12 ">
+        <h2 class="text-uppercase text-center font-weight-bold my-4 pt-5 wow fadeIn" data-wow-delay="0.2s">My projects</h2>
+        <hr class="between-sections">
+        <p class="text-center w-responsive mx-auto mt-5 wow fadeIn" data-wow-delay="0.2s">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum quas, eos officia maiores ipsam ipsum dolores reiciendis ad voluptas, animi obcaecati adipisci sapiente mollitia. </p>
+        </div>
+    </div>
+    </div>
+    <!--First row-->
+    <div class="row">
+    <!--First column-->
+    <div class="col-md-12 wow fadeIn" data-wow-delay="0.4s">
+        <!-- Nav tabs -->
+        <ul class="nav md-pills flex-center flex-wrap mx-0" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active font-weight-bold" data-toggle="tab" href="#panel31" role="tab">
+            <br>ALL</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link font-weight-bold" data-toggle="tab" href="#panel32" role="tab">
+            <br>BRANDING</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link font-weight-bold" data-toggle="tab" href="#panel33" role="tab">
+            <br>PACKAGING</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link font-weight-bold" data-toggle="tab" href="#panel34" role="tab">
+            <br>PRINT DESIGN</a>
+        </li>
+        </ul>
+    </div>
+    <!--Tab panels-->
+    <div class="tab-content">
+        <!--Panel 1-->
+        <div class="tab-pane fade show in active" id="panel31" role="tabpanel">
+        <br>
+        <!--First row-->
+        <div class="row ml-5 mr-5 mt-2">
+            <!--First column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project1.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/First column-->
+            <!--Second column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project8.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Second column-->
+            <!--Third column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project4.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Third column-->
+            <!--Fourth column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project3.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Fourth column-->
+        </div>
+        <!--/First row-->
+        <!--Second row-->
+        <div class="row ml-5 mr-5 mt-2">
+            <!--First column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project5.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/First column-->
+            <!--Second column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project2.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Second column-->
+            <!--Third column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project6.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Third column-->
+            <!--Fourth column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project7.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Fourth column-->
+        </div>
+        <!--/Second row-->
+        </div>
+        <!--/.Panel 1-->
+        <!--Panel 2-->
+        <div class="tab-pane fade" id="panel32" role="tabpanel">
+        <br>
+        <!--First row-->
+        <div class="row ml-5 mr-5 mt-2">
+            <!--First column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project4.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/First column-->
+            <!--Second column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project5.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Second column-->
+            <!--Third column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project1.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Third column-->
+            <!--Fourth column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project2.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Fourth column-->
+        </div>
+        <!--/First row-->
+        </div>
+        <!--/.Panel 2-->
+        <!--Panel 3-->
+        <div class="tab-pane fade" id="panel33" role="tabpanel">
+        <br>
+        <!--First row-->
+        <div class="row ml-5 mr-5 mt-2">
+            <!--First column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project3.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/First column-->
+            <!--Second column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project6.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Second column-->
+            <!--Third column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project8.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Third column-->
+            <!--/First row-->
+        </div>
+        </div>
+        <!--/.Panel 3-->
+        <!--Panel 4-->
+        <div class="tab-pane fade" id="panel34" role="tabpanel">
+        <br>
+        <!--First row-->
+        <div class="row ml-5 mr-5 mt-2">
+            <!--First column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project1.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/First column-->
+            <!--Second column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project7.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Second column-->
+            <!--Third column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project8.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Third column-->
+            <!--Fourth column-->
+            <div class="col-lg-3 col-md-6">
+            <!--Featured image-->
+            <div class="view overlay zoom z-depth-2">
+                <img src="https://mdbootstrap.com/img/Photos/Others/project2.jpg" class="img-fluid">
+            </div>
+            <p class="text-uppercase text-center font-weight-bold blue-grey-text mt-4 mb-4">Lorem ipsum dolor sit amet</p>
+            </div>
+            <!--/Fourth column-->
+        </div>
+        <!--/First row-->
+        </div>
+    </div>
+    <!--/.Panel 4-->
+    </div>
+    <!--/Tab panels-->
+</section>
+<!--/Projects section v.2-->
+
+
 <!-- Third container -->
 <div class="container">
 
@@ -103,7 +397,8 @@
 <section class="section feature-box my-5 pb-5">
 
     <!-- Section title -->
-    <h2 class="text-center text-uppercase my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">Process of <strong>creating</strong></h2>
+    <h2 class="text-uppercase text-center font-weight-bold my-4 wow fadeIn" data-wow-delay="0.2s">Process of Creating</h2>
+    <hr class="between-sections">
     <p class="text-center w-responsive mx-auto wow fadeIn my-5" data-wow-delay="0.2s"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum quas, eos officia maiores ipsam ipsum dolores reiciendis ad voluptas, animi obcaecati adipisci sapiente mollitia.</p>
 
         <!-- Nav tabs -->
@@ -193,137 +488,99 @@
 </div>
 <!-- /.Third container -->
 
-
-
-    <div class="container">
-
-        <!--Section: Services-->
-        <section id="services" class="section mt-3 mb-3 pb-3 py-4">
-
-            <!-- Section heading -->
-            <h3 class="text-center title my-5 pt-4 pb-5 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                <strong>Progressive Web Site Features</strong>
-            </h3>
-
-            <!-- Grid row -->
-            <div class="row wow fadeIn" data-wow-delay="0.4s">
-
-                <!-- Grid column -->
-                <div class="col-md-4 mb-5 text-center">
-
-                    <!--Panel-->
-                    <div class="text-left">
-                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
-                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
-                            <strong>Responsive</strong>
-                        </p>
-                        <p class="grey-text font-small mx-4">Layouts automatically adjust to the device it is accessed by, meaning users will always be served the version best suited for their device.
-                        </p>
-                    </div>
-                    <!--/.Panel-->
-
+<!--Third container-->
+<div class="container-fluid" style="background-color: #f3f3f5;">
+    <div class="container pt-3 pb-3">
+    <!--Section: Testimonials v.2-->
+    <section class="section py-5 mb-4">
+        <!--Section heading-->
+        <h2 class="text-uppercase text-center font-weight-bold my-4 wow fadeIn" data-wow-delay="0.2s">Testimonials</h2>
+        <hr class="between-sections">
+        <!--Carousel Wrapper-->
+        <div id="carousel-example-1" class="carousel no-flex testimonial-carousel slide carousel-fade" data-ride="carousel" data-interval="false">
+        <!--Slides-->
+        <div class="carousel-inner" role="listbox">
+            <!--First slide-->
+            <div class="carousel-item active">
+            <div class="testimonial mt-4 text-center">
+                <!--Content-->
+                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore cum accusamus eveniet molestias voluptatum inventore laboriosam labore sit, aspernatur praesentium iste impedit quidem.</p>
+                <div class="mt-4">
+                <h5><strong>John Doe</strong></h5>
+                <p>Founder at ET Company</p>
                 </div>
-                <!-- /Grid column -->
-
-                <!-- Second column -->
-                <div class="col-md-4 mb-5 text-center">
-
-                    <!--Panel-->
-                    <div class="text-left">
-                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
-                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
-                            <strong>Reliable</strong>
-                        </p>
-                        <p class="grey-text font-small mx-4">Accessible even on low-speed network connections and even completely offline. No ISP can get between your product and its users.
-                        </p>
-                    </div>
-                    <!--/.Panel-->
-
+                <!--Review-->
+                <div class="indigo-text">
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star-half-full"> </i>
                 </div>
-                <!-- /.Grid column -->
-
-                <!-- Grid column -->
-                <div class="col-md-4 mb-5 text-center">
-
-                    <!--Panel-->
-                    <div class="text-left">
-                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
-                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
-                            <strong>App-Like</strong>
-                        </p>
-                        <p class="grey-text font-small mx-4">Look and feel like mobile apps, capable of performing many native application functions and boosting user engagement over traditional websites.
-                        </p>
-                    </div>
-                    <!--/.Panel-->
-
-                </div>
-                <!-- /.Grid column -->
-
             </div>
-            <!-- /.Grid row -->
-
-            <!-- Grid row -->
-            <div class="row wow fadeIn" data-wow-delay="0.4s">
-
-                <!-- Grid column -->
-                <div class="col-md-4 mb-5 text-center">
-
-                    <!--Panel-->
-                    <div class="text-left">
-                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
-                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
-                            <strong>Re-Engageable</strong>
-                        </p>
-                        <p class="grey-text font-small mx-4">Can use Push Notifications so you can send alerts directly to your users without needing to clog up their email inbox or have your messages end up in junk-mail.
-                        </p>
-                    </div>
-                    <!--/.Panel-->
-
-                </div>
-                <!-- /Grid column -->
-
-                <!-- Grid column -->
-                <div class="col-md-4 mb-5 text-center">
-
-                    <!--Panel-->
-                    <div class="text-left">
-                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
-                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
-                            <strong>Safe</strong>
-                        </p>
-                        <p class="grey-text font-small mx-4">Every project and product is served over the TLS cryptographic protocol, making them the most secure type of websites around, perfect for e-commerce and sensitive data exchange.
-                        </p>
-                    </div>
-                    <!--/.Panel-->
-
-                </div>
-                <!-- /.Grid column -->
-
-                <!-- Grid column -->
-                <div class="col-md-4 mb-5 text-center">
-
-                    <!--Panel-->
-                    <div class="text-left">
-                        <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
-                            <i class="fa fa-square green-text mr-2" aria-hidden="true"></i>
-                            <strong>Discoverable</strong>
-                        </p>
-                        <p class="grey-text font-small mx-4">Identifiable on your phone as a local application, while also being accessible via popular search engines like Google—a major advantage over native mobile apps and standard websites in terms of accessibility and SEO.
-                        </p>
-                    </div>
-                    <!--/.Panel-->
-
-                </div>
-                <!-- /.Grid column -->
-
             </div>
-            <!-- /.Grid row -->
-
-        </section>
-        <!--/Section: Services-->
-
+            <!--/First slide-->
+            <!--Second slide-->
+            <div class="carousel-item">
+            <div class="testimonial mt-4 text-center">
+                <!--Content-->
+                <p><i class="fa fa-quote-left"></i> Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt. </p>
+                <div class="mt-4">
+                <h5><strong>Maria Kate</strong></h5>
+                <p>Photographer at Studio LA</p>
+                </div>
+                <!--Review-->
+                <div class="indigo-text">
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star"> </i>
+                </div>
+            </div>
+            </div>
+            <!--/Second slide-->
+            <!--Third slide-->
+            <div class="carousel-item">
+            <div class="testimonial mt-4 text-center">
+                <!--Content-->
+                <p><i class="fa fa-quote-left"></i> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                <div class="mt-4">
+                <h5><strong>Anna Deynah</strong></h5>
+                <p>Front-end Developer in NY</p>
+                </div>
+                <!--Review-->
+                <div class="indigo-text">
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star"> </i>
+                <i class="fa fa-star-o"> </i>
+                </div>
+            </div>
+            </div>
+            <!--/Third slide-->
+        </div>
+        <!--/.Slides-->
+        <!--Controls-->
+        <a class="carousel-item-prev left carousel-control" href="#carousel-example-1" role="button" data-slide="prev">
+                    <span class="icon-prev" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+        <a class="carousel-item-next right carousel-control" href="#carousel-example-1" role="button" data-slide="next">
+                    <span class="icon-next" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+        <!--/.Controls-->
+        </div>
+        <!--/.Carousel Wrapper-->
+    </section>
+    <!--Section: Testimonials v.2-->
     </div>
-<!--Second container-->
+</div>
+<!--/Third container-->
+
+    
 
 
 <div class="container">
@@ -503,6 +760,9 @@
             document.getElementById('contact-form').submit();
                 
         }
+
+        //Animation init
+        new WOW().init();
     </script>
 </body>
 

@@ -23,71 +23,59 @@
         <!--Grid row-->
         <div class="row">
 
-            <!--Grid column-->
-            <div class="col-lg-7 mb-4">
-                <!--Excerpt-->
-                <h4 class="section-description lead mb-4">I'm a freelance developer with 10 years of professional experience, based in St. Lucia.</h4>
-                <p class="section-description lead grey-text">I first dived into my web journey after graduating from Sir Arthur Lews Community College back in 2008, when I spent the entire summer after exams learning the HTML and CSS markup languages. I got my first job almost straight out of school working as an in-house Web Designer for a small Real Estate business by the name of Caribbean Real Estate.</p> 
-            </div>
-            <!--Grid column-->
+            <div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="francisremy"><a class="LI-simple-link" href='https://lc.linkedin.com/in/francisremy?trk=profile-badge'>Remy Francis</a></div>
 
-            <!--Grid column-->
-            <div class="col-lg-5 mb-4">
-                <!--Featured image-->
-                <div class="view overlay hm-black-slight z-depth-1">
-                    <img src="img/remy.jpg" alt="Remy image">
-                    <a>
-                        <div class="mask"></div>
-                    </a>
-                </div>
-            </div>
-            <!--Grid column-->
-
-            <div class="col-lg-7 mb-4">
-                <!--Excerpt-->
-                <p class="section-description lead grey-text">After resigning in search of greener pastures in 2009, I started working as IT Tech and spent the next few years honing my web dev skills and building small websites for clients. In 2013 I launched my first personal large-scale web project "Island Wide News", a news satire site that had achieved immense local notoriety and some regional collaboration in the short few years that my team and I had kept it online.</p>
-            </div>
-
-            <!--Grid column-->
-            <div class="col-lg-5 mb-4">
-                <!--Featured image-->
-                <div class="view overlay hm-black-slight z-depth-1">
-                    <img src="img/iwn_new.png" alt="Island Wide News">
-                    <a>
-                        <div class="mask"></div>
-                    </a>
-                </div>
-            </div>
-            <!--Grid column-->
-
-            <div class="col-lg-7 mb-4">
-                <!--Excerpt-->
-                <p class="section-description lead grey-text">Most recently I've achieved certifications in Fullstack Web Development, adding server-side and mobile application development to my repertoire in the last couple of years.</p>
-            </div>
-
-            <!--Grid column-->
-            <div class="col-lg-5 mb-4">
-                <!--Featured image-->
-                <div class="view overlay hm-black-slight z-depth-1"></div>
-                    <i class="fab fa-html5 fa-5x"></i>
-                    <i class="fab fa-css3-alt fa-5x"></i>
-                    <i class="fab fa-js-square fa-5x"></i>
-                    <i class="fab fa-php fa-5x"></i>
-                    <i class="fab fa-python fa-5x"></i>
-                    <i class="fab fa-angular fa-5x"></i>
-                    <i class="fab fa-node fa-5x"></i>
-                    <i class="fab fa-wordpress fa-5x"></i>
-                    <i class="fab fa-sass fa-5x"></i>
-                    <i class="fab fa-android fa-5x"></i>
-                    <a>
-                        <div class="mask"></div>
-                    </a>
-                </div>
-            </div>
-            <!--Grid column-->
 
         </div>
         <!--Grid row-->
+</div>
+
+<div class="container">
+
+    <section class="section extra-margins text-center text-lg-left py-5">
+    
+        <div class="row">
+
+
+            <!-- Card Regular -->
+            <div class="card narrower card-cascade">
+
+            <!-- Card image -->
+            <div class="view view-cascade overlay">
+            <img class="card-img-top" src="img/hkust-logo.png" alt="Card image cap">
+            <a>
+                <div class="mask rgba-white-slight"></div>
+            </a>
+            </div>
+            <!-- Card content -->
+            <div class="card-body card-body-cascade text-center">
+
+                <!-- Title -->
+                <h4 class="card-title"><strong>Full Stack Web Development Specialization</strong></h4>
+                <!-- Subtitle -->
+                <h6 class="font-weight-bold indigo-text py-2">Hong Kong University of Science & Technology</h6>
+                <!-- Text -->
+                <p class="card-text">Lorem ipsum dolor
+                </p>
+
+                <!-- Certificate Link -->
+                <button type="button" class="btn btn-lg green"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QL55EE4R3QEN">Certificate</a></button>
+
+            </div>
+
+        </div>
+        <!-- Card Regular -->
+        
+        
+        
+        </div>
+    
+    
+    
+    </section>
+
+
+
 </div>
 
 <div class="container">
@@ -161,6 +149,8 @@
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="js/mdb.min.js"></script>
+    <!-- LinkedIn Badge -->
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 </body>
 

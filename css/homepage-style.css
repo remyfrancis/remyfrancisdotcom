@@ -51,7 +51,9 @@ button:hover{
 }
 
 
-
+a.btn.btn-success.waves-effect.btn-lg.btn-rounded.btn-lg.font-weight-bold:hover {
+    color: #1B1B1B !important;
+}
 
 
 

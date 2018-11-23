@@ -12,7 +12,7 @@
                             <h1 class="display-3 mb-2 white-text wow animated fadeInDown delay-1s">REMY <a class="white-text font-weight-bold">FRANCIS</a></h1>
                             <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Full Stack Web & Mobile Developer</h5>
                             <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.5s">I develop awesome cross-platform mobile web apps and websites.</h5>
-                            <button class="btn btn-success waves-effect btn-lg btn-rounded font-weight-bold wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/proposal.html">Here's What I Do</button> 
+                            <a class="btn btn-success waves-effect btn-lg btn-rounded font-weight-bold wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/proposal.html">Here's What I Do</a> 
                             <h5 class="display-4 white-text animated bounce infinite"><i class="fas fa-angle-down"></i></h5>
                         </div>
                     </div>

@@ -192,7 +192,7 @@
             </ul>
             <ul class="navbar-nav nav-flex-icons">
                 <li class="nav-item">
-                <button class="btn btn-success waves-effect btn-lg btn-rounded btn-lg font-weight-bold" href="http://www.remyfrancis.com/proposal.html">Request A Quote!</button>
+                <a class="btn btn-success waves-effect btn-lg btn-rounded btn-lg font-weight-bold" href="http://www.remyfrancis.com/proposal.html">Request A Quote!</a>
                 </li>
             </ul>
         </div>

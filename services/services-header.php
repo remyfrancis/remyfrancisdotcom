@@ -16,8 +16,8 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Remy Francis Web Development Services">
     <meta name="twitter:description" content="Developer of informational and small business websites, e-commerce websites, progressive web applications and hybrid mobile apps based in St. Lucia.">
-    <meta name="twitter:site" content="@RemTheDeveloper">
-    <meta name="twitter:creator" content="@RemTheDeveloper">
+    <meta name="twitter:site" content="@refrancisdotcom">
+    <meta name="twitter:creator" content="@refrancisdotcom">
     <meta name="twitter:image:src" content="http://remyfrancis.com/img/image.PNG">
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
     <meta name="og:title" content="Remy Francis Web Development Services">
@@ -39,15 +39,15 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
-    <link href="css/mdb.min.css" rel="stylesheet">
+    <link href="../css/mdb.min.css" rel="stylesheet">
     <!-- Homepage Styles -->
-    <link href="css/homepage-style.css" rel="stylesheet">
+    <link href="../css/homepage-style.css" rel="stylesheet">
     <!-- Font -->
-    <link rel="stylesheet" type="text/css" href="fonts/proxima-nova/fonts.min.css" />
+    <link rel="stylesheet" type="text/css" href="../fonts/proxima-nova/fonts.min.css" />
     <!-- Timeline CSS - minified-->
-    <link href="css/addons-pro/timeline.min.css" rel="stylesheet">
+    <link href="../css/addons-pro/timeline.min.css" rel="stylesheet">
 </head>
 
 <body class="font-weight-bold">
@@ -62,10 +62,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link waves-light" href="index.php">Home</a>
+                    <a class="nav-link waves-light" href="../index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link waves-light" href="portfolio.php">Portfolio</a>
+                    <a class="nav-link waves-light" href="../portfolio.php">Portfolio</a>
                 </li>
                 <!-- Services -->
                 <li class="nav-item dropdown mega-dropdown">
@@ -79,12 +79,12 @@
                         <h5 class="sub-title text-uppercase font-weight-bold white-text">Website Development</h5>
                         <ul class="list-unstyled font-weight-bold">
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="services/webdev-services.php">
+                            <a class="menu-item pl-0 font-weight-bold" href="webdev-services.php">
                                 <i class="fas fa-desktop fa-lg pl-1 pr-3"></i>Website Design & Development Services
                             </a>
                             </li>
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="services/small-business-website-packages.php">
+                            <a class="menu-item pl-0 font-weight-bold" href="small-business-website-packages.php">
                                 <i class="fas fa-cubes fa-lg pl-1 pr-3"></i>Small Business Website Packages
                             </a>
                             </li>
@@ -94,12 +94,12 @@
                         <h5 class="sub-title text-uppercase font-weight-bold white-text">WordPress Web Development</h5>
                         <ul class="list-unstyled">
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="services/wordpress-services.php">
+                            <a class="menu-item pl-0 font-weight-bold" href="wordpress-services.php">
                                 <i class="fab fa-wordpress-simple fa-lg pl-1 pr-3"></i>WordPress Development Services
                             </a>
                             </li>
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="services/wordpress-packages.php">
+                            <a class="menu-item pl-0 font-weight-bold" href="wordpress-packages.php">
                                 <i class="fab fa-wordpress fa-lg pl-1 pr-3"></i>WordPress Website Packages
                             </a>
                             </li>
@@ -109,7 +109,7 @@
                         <h5 class="sub-title text-uppercase font-weight-bold white-text">Web & Mobile Applications</h5>
                         <ul class="list-unstyled">
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="services/app-services.php">
+                            <a class="menu-item pl-0 font-weight-bold" href="app-services.php">
                                 <i class="fab fa-angular fa-lg pl-1 pr-3"></i><i class="fab fa-react fa-lg pl-1 pr-3"></i>Web & Mobile App Development
                             </a>
                             </li>
@@ -119,12 +119,12 @@
                         <h5 class="sub-title text-uppercase font-weight-bold white-text">Support</h5>
                         <ul class="list-unstyled">
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="services/support-services.php">
-                            <i class="fas fa-balance-scale fa-lg pl-1 pr-3"></i>Website Maintenance
+                            <a class="menu-item pl-0 font-weight-bold" href="support-services.php">
+                            <i class="fas fa-balance-scale fa-lg pl-1 pr-3"></i>Website Support Services
                             </a>
                             </li>
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="services/support-packages.php">
+                            <a class="menu-item pl-0 font-weight-bold" href="support-packages.php">
                                 <i class="fas fa-shield-alt fa-lg pl-1 pr-3"></i>Support Packages
                             </a>
                             </li>
@@ -134,10 +134,10 @@
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link waves-light" href="process.php">Process</a>
+                    <a class="nav-link waves-light" href="../process.php">Process</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link waves-light" href="contact.php">Contact</a>
+                    <a class="nav-link waves-light" href="../contact.php">Contact</a>
                 </li>
             </ul>
             <ul class="navbar-nav nav-flex-icons">
@@ -150,23 +150,3 @@
 </nav>
     
     </header>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

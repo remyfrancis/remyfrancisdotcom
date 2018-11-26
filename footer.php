@@ -42,7 +42,7 @@
         <!-- Grid column -->
         <div class="col-md-2 mb-3">
           <h6 class="text-uppercase font-weight-bold">
-            <a href="#!">Blog</a>
+            <a href="https://remyfrancis.com/blog">Blog</a>
           </h6>
         </div>
         <!-- Grid column -->
@@ -78,23 +78,23 @@
           <div class="mb-5 flex-center">
 
             <!-- Facebook -->
-            <a class="fb-ic">
+            <a class="fb-ic" href="https://www.facebook.com/Remy-Francis-Web-Development-259826234684292/">
               <i class="fab fa-facebook-f fa-2x mr-4"> </i>
             </a>
             <!-- Twitter -->
-            <a class="tw-ic">
+            <a class="tw-ic" href="https://www.twitter.com/refrancisdotcom">
               <i class="fab fa-twitter fa-2x mr-4"> </i>
             </a>
             <!--Linkedin -->
-            <a class="li-ic">
+            <a class="li-ic" href="https://www.linkedin.com/in/francisremy/">
               <i class="fab fa-linkedin fa-2x mr-4"> </i>
             </a>
             <!--Instagram-->
-            <a class="ins-ic">
+            <a class="ins-ic" href="https://www.instagram.com/remyfrancisdotcom/">
               <i class="fab fa-instagram fa-2x mr-4"> </i>
             </a>
             <!--GitHub-->
-            <a class="git-ic">
+            <a class="git-ic" href="https://github.com/remyfrancis">
                 <i class ="fab fa-github fa-2x mr-4"> </i>
             </a>
 

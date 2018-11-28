@@ -48,6 +48,15 @@
     <link rel="stylesheet" type="text/css" href="fonts/proxima-nova/fonts.min.css" />
     <!-- Timeline CSS - minified-->
     <link href="css/addons-pro/timeline.min.css" rel="stylesheet">
+    <!-- SCRIPTS -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js" async defer></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/popper.min.js" async defer></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="js/bootstrap.min.js" async defer></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.min.js" async defer></script>
 </head>
 
 <body class="font-weight-bold">

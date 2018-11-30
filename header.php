@@ -44,8 +44,6 @@
     <link href="css/mdb.min.css" rel="stylesheet">
     <!-- Homepage Styles -->
     <link href="css/homepage-style.css" rel="stylesheet">
-    <!-- Font -->
-    <link rel="stylesheet" type="text/css" href="fonts/proxima-nova/fonts.min.css" />
     <!-- Timeline CSS - minified-->
     <link href="css/addons-pro/timeline.min.css" rel="stylesheet">
     <!-- SCRIPTS -->

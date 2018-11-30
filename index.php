@@ -2,10 +2,10 @@
 <?php include('header.php'); ?>
 
 <!--Main Navigation-->
-<div class="view intro hm-black-slight jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('img/2.jpg'); ">
+<div class="view intro hm-black-slight jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('img/2.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
     <div class="full-bg-img">
         <div class="container">
-            <div class="d-flex align-items-center d-flex justify-content-center" style="height: 850px">
+            <div class="d-flex align-items-center d-flex justify-content-center" style="height: 700px">
                 <div class="row mt-5">
                     <div class="col-md-12 wow zoomIn mb-3 mx-3">
                         <div class="intro-info-content text-center">
@@ -146,6 +146,7 @@
         </div>
     </div>
     </div>
+    <div class="container">
     <!--First row-->
     <div class="row">
     <!--First column-->
@@ -381,6 +382,7 @@
             <!--/Fourth column-->
         </div>
         <!--/First row-->
+        </div>
         </div>
     </div>
     <!--/.Panel 4-->

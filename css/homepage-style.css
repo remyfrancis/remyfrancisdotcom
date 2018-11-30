@@ -1,4 +1,21 @@
 /* Your custom styles */
+html,
+body,
+header,
+.jarallax {
+  height: 100%;
+}
+
+@media (max-width: 740px) {
+  html,
+  body,
+  header,
+  .jarallax {
+    height: 100vh;
+  }
+}
+
+
 .top-nav-collapse {
     background-color: #222222 !important; 
 }

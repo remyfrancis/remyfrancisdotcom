@@ -30,14 +30,14 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="manifest" href="manifest.json">
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <!--Page Title-->
     <title>Remy Francis Web Development</title>
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" defer>
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
@@ -45,14 +45,14 @@
     <!-- Homepage Styles -->
     <link href="css/homepage-style.css" rel="stylesheet">
     <!-- Timeline CSS - minified-->
-    <link href="css/addons-pro/timeline.min.css" rel="stylesheet">
+    <link href="css/addons-pro/timeline.min.css" rel="stylesheet" defer>
     <!-- SCRIPTS -->
     <!-- JQuery -->
-    <script type="text/javascript" src="js/jquery-3.3.1.min.js" async defer></script>
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js" async></script>
     <!-- Bootstrap tooltips -->
     <script type="text/javascript" src="js/popper.min.js" async defer></script>
     <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="js/bootstrap.min.js" async defer></script>
+    <script type="text/javascript" src="js/bootstrap.min.js" defer></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="js/mdb.min.js" async defer></script>
 </head>

@@ -4,9 +4,9 @@
 <main>
 
     <section>
-        <div style="background-image: url('https://mdbootstrap.com/img/Photos/Others/slide4.jpg'); background-repeat: no-repeat; background-size: cover;">
+        <div style="background-image: url('../img/hero.jpg'); background-repeat: no-repeat; background-size: cover;">
             <!-- Caption -->
-            <div class="full-bg-img  flex-center white-text rgba-stylish-strong">
+            <div class="full-bg-img  flex-center white-text mask rgba-black-light">
                 <ul class="animated fadeIn col-md-12 list-unstyled">
                     <li>
                         <h1 class="display-4 font-weight-bold mt-5 pt-5 ">WEB DEVELOPMENT SERVICES</h1>
@@ -54,7 +54,7 @@
                             <!-- Grid column -->
                             <div class="col-lg-6 col-md-12 mb-3 wow fadeIn" data-wow-delay="0.4s">
                                 <!-- Image -->
-                                <img src="https://mdbootstrap.com/img/Photos/Others/images/96.jpg" class="img-fluid rounded z-depth-1" alt="My photo">
+                                <img src="../img/webdev.jpg" class="img-fluid rounded z-depth-1" alt="My photo">
                             </div>
                             <!-- Grid column -->
 
@@ -63,19 +63,19 @@
 
                                 <!-- Secion heading -->
                                 <h2 class="mb-5 title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                                    <strong>Lorem ipsum dolor sit amet</strong>
+                                    <strong>Web Development & Design</strong>
                                 </h2>
 
                                 <!-- Description -->
-                                <p align="justify" class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam,
-                                    dicta ab cupiditate iure eaque? Repellendus voluptatum, magni impedit delectus, beatae
-                                    maxime temporibus maiores quibusdam.</p>
-                                <p class="grey-text">
-                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Perferendis iusto sint tempora</p>
-                                <p class="grey-text">
-                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Lorem ipsum dolor sit amet</p>
-                                <p class="grey-text">
-                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Repellendus voluptatum, magni</p>
+                                <p align="justify">Need a simple static, but elegant website that you won't need to sign into to make future changes? Then this is the service you're looking for. Perfect for small businesses and individuals who need:</p>
+                                <p>
+                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Landing Pages</p>
+                                <p>
+                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Informational Websites</p>
+                                <p>
+                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> A simple online presence with social media included</p>
+
+                                <p class="mb-5 title font-weight-bold wow fadeIn green-text" data-wow-delay="0.2s">Price: Starts at XCD$800</p>
                             </div>
                             <!-- Grid column -->
 
@@ -97,19 +97,14 @@
 
                                 <!-- Secion heading -->
                                 <h2 class="mb-5 title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                                    <strong>Easily customizable with great interface</strong>
+                                    <strong>Upgrade to a Beautiful & Responsive Web Experience</strong>
                                 </h2>
 
                                 <!-- Description -->
-                                <p align="justify" class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam,
-                                    dicta ab cupiditate iure eaque? Repellendus voluptatum, magni impedit delectus, beatae
-                                    maxime temporibus maiores quibusdam.</p>
-                                <p align="justify" class="grey-text">Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut
-                                    possimus in hic molestias repellendus illo ullam odit quia velit. Lorem ipsum dolor sit
-                                    amet, consectetur adipisicing elit.</p>
-                                <p align="justify" class="grey-text">Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut
-                                    possimus in hic molestias repellendus illo </p>
-
+                                <p align="justify">Does your website look like something out of the early 00s, or worse, the <em>the 90's</em>?</p>
+                                <p align="justify">Do your customers struggle to read or even open your webpage on their mobile devices?</p>
+                                <p align="justify">Well then, this is just the service that you're looking for. Did you know, that as of January 2018, there are <span class="green-text">3.7 billion</span> global mobile Internet users? Allow me to redesign and futureproof your website so your mobile customers don't get locked out. Your online business deserves to be accessible, and your users deserve a wonderful experience. </p>
+                                <p class="mb-5 title font-weight-bold wow fadeIn green-text" data-wow-delay="0.2s">Price: Starts at XCD$1,600.00</p>
                             </div>
                             <!-- /.Grid column -->
 
@@ -117,7 +112,7 @@
                             <div class="col-md-12 col-lg-6 mb-5 text-center">
 
                                 <!-- Image -->
-                                <img src="https://mdbootstrap.com/img/Photos/Others/images/95.jpg" class="img-fluid rounded z-depth-1" alt="My photo">
+                                <img src="../img/redesign.jpg" class="img-fluid rounded z-depth-1" alt="My photo">
 
                             </div>
                             <!-- /Grid column -->
@@ -138,7 +133,7 @@
                             <!-- Grid column -->
                             <div class="col-lg-6 col-md-12 mb-3 wow fadeIn" data-wow-delay="0.4s">
                                 <!-- Image -->
-                                <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/macbook.png" class="img-fluid rounded" alt="My photo">
+                                <img src="../img/bug.jpg" class="img-fluid rounded" alt="Troubleshooting">
                             </div>
                             <!-- Grid column -->
 
@@ -147,19 +142,12 @@
 
                                 <!-- Secion heading -->
                                 <h2 class="mb-5 title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                                    <strong>Build your brand with us</strong>
+                                    <strong>Troubleshooting</strong>
                                 </h2>
 
                                 <!-- Description -->
-                                <p align="justify" class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam,
-                                    dicta ab cupiditate iure eaque? Repellendus voluptatum, magni impedit delectus, beatae
-                                    maxime temporibus maiores quibusdam.</p>
-                                <p class="grey-text">
-                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Perferendis iusto sint tempora</p>
-                                <p class="grey-text">
-                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Lorem ipsum dolor sit amet</p>
-                                <p class="grey-text">
-                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Repellendus voluptatum, magni</p>
+                                <p align="justify">Websites that just don't work how they're meant to work can cost you money and customers. I can help. I offer bug-fixing and troubleshooting services for existing websites.</p>
+                                <p class="mb-5 title font-weight-bold wow fadeIn green-text" data-wow-delay="0.2s">Price: Starts at XCD$70.00</p>
                             </div>
                             <!-- Grid column -->
 
@@ -178,7 +166,7 @@
                             <!-- Grid column -->
                             <div class="col-lg-6 col-md-12 mb-3 wow fadeIn" data-wow-delay="0.4s">
                                 <!-- Image -->
-                                <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/cards2.png" class="img-fluid rounded" alt="My photo">
+                                <img src="../img/pwa.png" class="img-fluid rounded" alt="Progressive Web App Conversion">
                             </div>
                             <!-- Grid column -->
 
@@ -187,19 +175,22 @@
 
                                 <!-- Secion heading -->
                                 <h2 class="mb-5 title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                                    <strong>Build your brand with us</strong>
+                                    <strong>What If Your Website Could Work Without The Internet?</strong>
                                 </h2>
 
                                 <!-- Description -->
-                                <p align="justify" class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam,
-                                    dicta ab cupiditate iure eaque? Repellendus voluptatum, magni impedit delectus, beatae
-                                    maxime temporibus maiores quibusdam.</p>
-                                <p class="grey-text">
-                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Perferendis iusto sint tempora</p>
-                                <p class="grey-text">
-                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Lorem ipsum dolor sit amet</p>
-                                <p class="grey-text">
-                                    <i class="fa fa-long-arrow-right orange-text mr-2" aria-hidden="true"></i> Repellendus voluptatum, magni</p>
+                                <p align="justify">That's a reality with a Progressive Web App. If the following features appeal to you then perhaps your site is due for a little conversion?</p>
+                                <p>
+                                    <i class="fa fa-long-arrow-right green-text mr-2" aria-hidden="true"></i> <span class="green-text">Connectivity Independence:</span> Progressive web applications can work both offline and on low-quality networks.</p>
+                                <p>
+                                    <i class="fa fa-long-arrow-right green-text mr-2" aria-hidden="true"></i> <span class="green-text">App-like interface:</span> These apps mimic navigation and interactions of native apps.</p>
+                                <p>
+                                    <i class="fa fa-long-arrow-right green-text mr-2" aria-hidden="true"></i> <span class="green-text">Push notifications:</span> If used as a part of a good messaging strategy, push notifications can keep customers interested, motivating them to open and use an app more.</p>
+                                <p>
+                                    <i class="fa fa-long-arrow-right green-text mr-2" aria-hidden="true"></i> <span class="green-text">Safety:</span> These apps are served through HTTPS, so unauthorized users can’t access their content.</p>
+                                <p class="mb-5 title font-weight-bold wow fadeIn green-text" data-wow-delay="0.2s">Price: Depends on the Website</p>
+
+                                
                             </div>
                             <!-- Grid column -->
 
@@ -215,54 +206,40 @@
             <!-- Section: About 1-->
         </div>
 
-        <hr>
 
-        <div class="container">
+        <!-- Streak -->
+        <div class="streak streak-photo streak-md" style="background-image: url('../img/hero.jpg');">
+            <div class="flex-center mask rgba-black-light">
+                <div class="container my-5">
+                    <!--Grid row-->
+                    <div class="row text-center align-items-center">
 
-            <!-- Section: About 3-->
-            <section class="section mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
+                        <!--Grid column-->
+                        <div class="col-md-8">
 
-                <!-- Grid row -->
-                <div class="row mt-5 pt-5 wow fadeIn" data-wow-delay="0.4s">
+                            <!-- Section heading -->
+                            <h3 class="text-center white-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+                                <strong>Interested in this service?</strong>
+                            </h3>
 
-                    <!-- Grid column -->
-                    <div class="col-md-6 col-lg-8 mb-5 text-left">
+                        </div>
+                        <!--Grid column-->
 
-                        <!-- Secion heading -->
-                        <h2 class="mb-5 title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                            <strong>Easily customizable with great interface</strong>
-                        </h2>
-
-                        <!-- Description -->
-                        <p align="justify" class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam, dicta
-                            ab cupiditate iure eaque? Repellendus voluptatum, magni impedit delectus, beatae maxime temporibus
-                            maiores quibusdam.</p>
-                        <p align="justify" class="grey-text">Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus
-                            in hic molestias repellendus illo ullam odit quia velit. Lorem ipsum dolor sit amet, consectetur
-                            adipisicing elit.</p>
-                        <p align="justify" class="grey-text">Magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus
-                            in hic molestias repellendus illo. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                            Nemo animi soluta ratione quisquam, dicta ab cupiditate iure eaque? Repellendus voluptatum, magni
-                            impedit delectus, beatae maxime temporibus maiores quibusdam.</p>
+                        <!--Grid column-->
+                        <div class="col-md-4">
+                            <a class="btn btn-white btn-rounded btn-lg orange-text font-weight-bold ml-0 wow fadeIn" data-wow-delay="0.2s" href="../contact.php">
+                                Ask For A Quotation</a>
+                        </div>
+                        <!--Grid column-->
 
                     </div>
-                    <!-- /.Grid column -->
-
-                    <!-- Grid column -->
-                    <div class="col-md-6 col-lg-3 mt-md-4 ml-auto mb-5 text-center">
-
-                        <!-- Image -->
-                        <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/admin-new1.png" class="img-fluid rounded z-depth-0" alt="My photo">
-
-                    </div>
-                    <!-- /Grid column -->
+                    <!--Grid row-->
 
                 </div>
-                <!-- /.Grid row -->
-
-            </section>
-            <!-- Section: About 3 -->
+            </div>
         </div>
+        <!-- Streak -->
+
 
         <div class="container-fluid" style="background-color: #f4f4fa">
             <div class="container py-4">
@@ -276,13 +253,12 @@
                         <div class="col-md-6 col-lg-3 text-center">
                             <div class="icon-area">
                                 <div class="circle-icon">
-                                    <i class="fa fa-gears blue-text"></i>
+                                    <i class="fas fa-cogs fa-3x green-text"></i>
                                 </div>
                                 <br>
                                 <h5 class="dark-grey-text font-weight-bold mt-2">Customization</h5>
                                 <div class="mt-1">
-                                    <p class="mx-3 grey-text">Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem ipsum dolor
-                                        sit amet, consectetur adipisicing.</p>
+                                    <p class="mx-3 grey-text">I will customize your website to your exact specifications.</p>
                                 </div>
                             </div>
                         </div>
@@ -290,13 +266,12 @@
                         <div class="col-md-6 col-lg-3 text-center">
                             <div class="icon-area">
                                 <div class="circle-icon">
-                                    <i class="fa fa-book blue-text"></i>
+                                    <i class="fa fa-book fa-3x green-text"></i>
                                 </div>
                                 <br>
-                                <h5 class="dark-grey-text font-weight-bold mt-2">Easy tutorials</h5>
+                                <h5 class="dark-grey-text font-weight-bold mt-2">Easy Tutorials</h5>
                                 <div class="mt-1">
-                                    <p class="mx-3 grey-text">Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem ipsum dolor
-                                        sit amet, consectetur adipisicing.</p>
+                                    <p class="mx-3 grey-text">I know you don't have the time for all the confusing parts, so any actions you need to take are broken down into a simple to follow tutorial.</p>
                                 </div>
                             </div>
                         </div>
@@ -304,13 +279,12 @@
                         <div class="col-md-6 col-lg-3 text-center mb-4">
                             <div class="icon-area">
                                 <div class="circle-icon">
-                                    <i class="fa fa-users blue-text"></i>
+                                    <i class="fa fa-users fa-3x green-text"></i>
                                 </div>
                                 <br>
-                                <h5 class="dark-grey-text font-weight-bold mt-2">Free support</h5>
+                                <h5 class="dark-grey-text font-weight-bold mt-2">Support</h5>
                                 <div class="mt-1">
-                                    <p class="mx-3 grey-text">Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem ipsum dolor
-                                        sit amet, consectetur adipisicing.</p>
+                                    <p class="mx-3 grey-text">Support services are offered for each different service and service package for a reasonable cost.</p>
                                 </div>
                             </div>
                         </div>
@@ -318,13 +292,12 @@
                         <div class="col-md-6 col-lg-3 text-center mb-4">
                             <div class="icon-area">
                                 <div class="circle-icon">
-                                    <i class="fa fa-laptop blue-text"></i>
+                                    <i class="fa fa-laptop fa-3x green-text"></i>
                                 </div>
                                 <br>
-                                <h5 class="dark-grey-text font-weight-bold mt-2">Clean design</h5>
+                                <h5 class="dark-grey-text font-weight-bold mt-2">Clean Design</h5>
                                 <div class="mt-1">
-                                    <p class="mx-3 grey-text">Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem ipsum dolor
-                                        sit amet, consectetur adipisicing.</p>
+                                    <p class="mx-3 grey-text">I develop simple and clean web interfaces that are 100% responsive and load reliably even on poor connections.</p>
                                 </div>
                             </div>
                         </div>
@@ -338,81 +311,7 @@
             </div>
         </div>
 
-        <!-- Streak -->
-        <div class="streak streak-photo streak-md" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/architecture.jpg');">
-            <div class="flex-center mask rgba-gradient">
-                <div class="container my-5">
-                    <!--Grid row-->
-                    <div class="row text-center align-items-center">
-
-                        <!--Grid column-->
-                        <div class="col-md-8">
-
-                            <!-- Section heading -->
-                            <h3 class="text-center white-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                                <strong>Try Saas now and take your project to a new level</strong>
-                            </h3>
-
-                        </div>
-                        <!--Grid column-->
-
-                        <!--Grid column-->
-                        <div class="col-md-4">
-                            <a class="btn btn-white btn-rounded btn-lg orange-text font-weight-bold ml-0 wow fadeIn" data-wow-delay="0.2s">
-                                Sign up free</a>
-                        </div>
-                        <!--Grid column-->
-
-                    </div>
-                    <!--Grid row-->
-
-                </div>
-            </div>
-        </div>
-        <!-- Streak -->
-
-        <div class="container">
-
-            <!-- Section: Download -->
-            <section class="section about mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
-
-
-                <!-- Grid row -->
-                <div class="row mt-5 pt-5 wow fadeIn" data-wow-delay="0.4s">
-
-                    <!-- Grid column -->
-                    <div class="col-md-6 mb-5 text-center">
-
-                        <div class="embed-responsive embed-responsive-16by9 z-depth-1 rounded">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7MUISDJ5ZZ4" allowfullscreen></iframe>
-                        </div>
-
-                    </div>
-                    <!-- /Grid column -->
-
-                    <!-- Second column -->
-                    <div class="col-md-6 mb-5 text-center">
-
-                        <!-- Section heading -->
-                        <h3 class="text-center title mb-5 mt-lg-5 pt-xl-4 pb-2 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                            <strong>Download our app</strong>
-                        </h3>
-
-                        <a class="btn btn-white btn-rounded btn-lg orange-text font-weight-bold ml-0 wow fadeIn" data-wow-delay="0.2s">
-                            <i class="fa fa-android pr-2" aria-hidden="true"></i> Play store</a>
-                        <a class="btn btn-white btn-rounded btn-lg orange-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                            <i class="fa fa-apple pr-2" aria-hidden="true"></i> App store</a>
-
-                    </div>
-                    <!-- /.Grid column -->
-
-                </div>
-                <!-- /.Grid row -->
-
-            </section>
-            <!-- Section: Download -->
-
-        </div>
+        
 
     </main>
     <!-- Main content -->

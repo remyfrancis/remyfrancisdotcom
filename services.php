@@ -2,7 +2,7 @@
 
 <!--Page Header-->
 <section>
-    <div style="background-image: url('img/2.jpg'); background-repeat: no-repeat; background-size: cover;">
+    <div style="background-image: url('img/hero.jpg'); background-repeat: no-repeat; background-size: cover;">
         <!-- Caption -->
         <div class="full-bg-img flex-center white-text hm-black-slight">
             <ul class="animated fadeIn col-md-12 list-unstyled">

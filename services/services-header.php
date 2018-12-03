@@ -30,7 +30,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="manifest" href="../manifest.json">
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
@@ -44,17 +44,15 @@
     <link href="../css/mdb.min.css" rel="stylesheet">
     <!-- Homepage Styles -->
     <link href="../css/homepage-style.css" rel="stylesheet">
-    <!-- Font -->
-    <link rel="stylesheet" type="text/css" href="../fonts/proxima-nova/fonts.min.css" />
     <!-- Timeline CSS - minified-->
     <link href="../css/addons-pro/timeline.min.css" rel="stylesheet">
     <!-- SCRIPTS -->
     <!-- JQuery -->
-    <script type="text/javascript" src="../js/jquery-3.3.1.min.js" async defer></script>
+    <script type="text/javascript" src="../js/jquery-3.3.1.min.js" async></script>
     <!-- Bootstrap tooltips -->
     <script type="text/javascript" src="../js/popper.min.js" async defer></script>
     <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="../js/bootstrap.min.js" async defer></script>
+    <script type="text/javascript" src="../js/bootstrap.min.js" defer></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="../js/mdb.min.js" async defer></script>
 </head>
@@ -93,8 +91,8 @@
                             </a>
                             </li>
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="small-business-website-packages.php">
-                                <i class="fas fa-cubes fa-lg pl-1 pr-3"></i>Small Business Website Packages
+                            <a class="menu-item pl-0 font-weight-bold" href="">
+                                <i class="fas fa-cubes fa-lg pl-1 pr-3"></i>Small Business Website Packages(Coming Soon)
                             </a>
                             </li>
                         </ul>
@@ -108,8 +106,8 @@
                             </a>
                             </li>
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="wordpress-packages.php">
-                                <i class="fab fa-wordpress fa-lg pl-1 pr-3"></i>WordPress Website Packages
+                            <a class="menu-item pl-0 font-weight-bold" href="">
+                                <i class="fab fa-wordpress fa-lg pl-1 pr-3"></i>WordPress Website Packages(coming Soon)
                             </a>
                             </li>
                         </ul>
@@ -133,8 +131,8 @@
                             </a>
                             </li>
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="support-packages.php">
-                                <i class="fas fa-shield-alt fa-lg pl-1 pr-3"></i>Support Packages
+                            <a class="menu-item pl-0 font-weight-bold" href="">
+                                <i class="fas fa-shield-alt fa-lg pl-1 pr-3"></i>Support Packages(Coming Soon)
                             </a>
                             </li>
                         </ul>
@@ -151,7 +149,7 @@
             </ul>
             <ul class="navbar-nav nav-flex-icons">
                 <li class="nav-item">
-                <a class="btn btn-success waves-effect btn-lg btn-rounded btn-lg font-weight-bold" href="http://www.remyfrancis.com/proposal.html">Request A Quote!</a>
+                <a class="btn btn-success waves-effect btn-lg btn-rounded btn-lg font-weight-bold" href="contact.php">Request A Quote!</a>
                 </li>
             </ul>
         </div>

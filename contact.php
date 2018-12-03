@@ -4,12 +4,12 @@
 
 <!--Page Header-->
 <section>
-    <div style="background-image: url('img/2.jpg'); background-repeat: no-repeat; background-size: cover;">
+    <div style="background-image: url('img/hero.jpg'); background-repeat: no-repeat; background-size: cover;">
         <!-- Caption -->
-        <div class="full-bg-img flex-center white-text hm-black-slight">
+        <div class="full-bg-img flex-center white-text mask rgba-black-light">
             <ul class="animated fadeIn col-md-12 list-unstyled">
                 <li>
-                    <h1 class="h1-responsive font-weight-bold wow animated fadeInDown mt-5 pt-5"  data-wow-delay="0.5s">CONTACT</h1>
+                    <h1 class="display-4 font-weight-bold mt-5 pt-5"  data-wow-delay="0.5s">CONTACT</h1>
                 </li>
             </ul>
         </div>
@@ -36,7 +36,7 @@
                                         <div class="card-body form">
                                             <!--Header-->
                                             <div class="formHeader mb-1 pt-3 text-center">
-                                                <h3><i class="fa fa-envelope"></i> Tell Me About Your Business And Ideas. Let's Start Building That Solution</h3>
+                                            <h3 class="text-uppercase text-center font-weight-bold my-4 wow fadeIn"><i class="fa fa-envelope"></i> Let's Start Building That Solution</h3>
                                             </div>
 
                                             <br>

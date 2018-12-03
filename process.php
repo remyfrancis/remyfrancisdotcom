@@ -4,9 +4,9 @@
 <main>
 
     <section>
-        <div style="background-image: url('https://mdbootstrap.com/img/Photos/Others/slide4.jpg'); background-repeat: no-repeat; background-size: cover;">
+        <div style="background-image: url('img/hero.jpg'); background-repeat: no-repeat; background-size: cover;">
             <!-- Caption -->
-            <div class="full-bg-img  flex-center white-text rgba-stylish-strong">
+            <div class="full-bg-img flex-center white-text mask rgba-black-light">
                 <ul class="animated fadeIn col-md-12 list-unstyled">
                     <li>
                         <h1 class="display-4 font-weight-bold mt-5 pt-5 ">PROCESS</h1>
@@ -29,80 +29,71 @@
                     <li>
                     <!--Section Title -->
                     <a href="#!">
-                        <span class="circle default-color z-depth-1-half"><i class="fa fa-heart" aria-hidden="true"></i></span>
+                        <span class="circle default-color z-depth-1-half"><i class="fas fa-comments mb-1" aria-hidden="true"></i></span>
                     </a>
 
                     <!-- Section Description -->
                     <div class="step-content z-depth-1 ml-2 p-4">
-                        <h4 class="font-weight-bold">Ut enim ad minim veniam</h4>
-                        <p class="text-muted mt-3"><i class="fa fa-clock-o" aria-hidden="true"></i> 11 hours ago via
-                        Twitter</p>
-                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                        ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h4 class="font-weight-bold"> Free Consultation</h4>
+                        <p class="mb-0">
+                        Shoot me an email, give me a ring by phone or send me a WhatsApp message. We'll discuss your idea, needs and the logistics involved, and then determine if my services are the right fit for you.
+                        </p>
                     </div>
                     </li>
                     <li class="timeline-inverted">
                     <!--Section Title -->
                     <a href="#!">
-                        <span class="circle secondary-color z-depth-1-half"><i class="fa fa-users" aria-hidden="true"></i></span>
+                        <span class="circle secondary-color z-depth-1-half"><i class="fas fa-book mb-1" aria-hidden="true"></i></span>
                     </a>
 
                     <!-- Section Description -->
                     <div class="step-content z-depth-1 mr-xl-2 p-4">
-                        <h4 class="font-weight-bold">Duis aute irure dolor</h4>
-                        <p class=" mt-4 mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-                        architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-                        aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem
-                        sequi nesciunt.</p>
+                        <h4 class="font-weight-bold"> Research & Proposal</h4>
+                        <p class=" mt-4 mb-0">
+                        Following first contact, I take some time to research, plan and organize in order to better guarantee mission success. Within 14 days I will send you a proposal and quotation for prospective costs and requirements as well as a guide on what you need to do next should you accept.
+                        </p>
                     </div>
                     </li>
                     <li>
                     <!--Section Title -->
                     <a href="#!">
-                        <span class="circle primary-color z-depth-1-half"><i class="fa fa-cloud" aria-hidden="true"></i></span>
+                        <span class="circle primary-color z-depth-1-half"><i class="fas fa-pencil-ruler mb-1" aria-hidden="true"></i></span>
                     </a>
 
                     <!-- Section Description -->
                     <div class="step-content z-depth-1 ml-2 p-4">
-                        <h4 class="font-weight-bold">Sed ut nihil unde omnis</h4>
-                        <p class="mt-4 mb-0">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
-                        adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam
-                        aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
-                        suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure
-                        reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui
-                        dolorem eum fugiat quo voluptas nulla pariatur?</p>
+                        <h4 class="font-weight-bold"> Design</h4>
+                        <p class="mt-4 mb-0">
+                        Time for mock-ups! I will present wireframes, templates and examples until we determine what works for you before moving on to the next phase.
+                        </p>
                     </div>
                     </li>
                     <li class="timeline-inverted">
                     <!--Section Title -->
                     <a href="#!">
-                        <span class="circle pink z-depth-1-half"><i class="fa fa-coffee" aria-hidden="true"></i></span>
+                        <span class="circle pink z-depth-1-half"><i class="fa fa-code mb-1" aria-hidden="true"></i></span>
                     </a>
 
                     <!-- Section Description -->
                     <div class="step-content z-depth-1 mr-xl-2 p-4">
-                        <h4 class="font-weight-bold"> Quis autem vel eum voluptate</h4>
-                        <p class="mt-4 mb-0">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
-                        praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
-                        occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi,
-                        id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
+                        <h4 class="font-weight-bold"> Development</h4>
+                        <p class="mt-4 mb-0">
+                        Now comes my favourite part (also the longest). During this phase, I build your solution. Honestly, this is going to take more time than the previous phases, but its so you receive a quality product in the end. Worry not, I will keep you updated as each development milestone is reached or if any hang-ups occur.
+                        </p>
                     </div>
                     </li>
                     <li>
                     <!--Section Title -->
                     <a href="#!">
-                        <span class="circle mdb-color z-depth-1-half"><i class="fa fa-instagram" aria-hidden="true"></i></span>
+                        <span class="circle mdb-color z-depth-1-half"><i class="fas fa-thumbs-up mb-1" aria-hidden="true"></i></span>
                     </a>
 
                     <!-- Section Description -->
                     <div class="step-content z-depth-1 ml-2 p-4">
-                        <h4 class="font-weight-bold">Mussum ipsum cacilds</h4>
-                        <p class="mt-4 mb-0">Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus
-                        saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum
-                        hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut
-                        perferendis doloribus asperiores repellat.</p>
+                        <h4 class="font-weight-bold">Deployment</h4>
+                        <p class="mt-4 mb-0">
+                        The project is ready for deployment at this phase. After final payment is received, I upload, test everything again to make sure that all is in working order and then we launch!
+                        </p>
                     </div>
                     </li>
                 </ul>

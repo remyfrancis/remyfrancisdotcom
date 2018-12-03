@@ -18,7 +18,7 @@
         <!-- Grid column -->
         <div class="col-md-2 mb-3">
           <h6 class="text-uppercase font-weight-bold">
-            <a href="deals.php">Deals</a>
+            <a href="#!">Deals</a>
           </h6>
         </div>
         <!-- Grid column -->
@@ -112,7 +112,7 @@
     <!--Copyright-->
     <div class="footer-copyright">
         <div class="container-fluid text-center py-2">
-        <a href="sitemap.xml">Sitemap</a> | <a href="terms-of-service.php">Terms of Service</a> | <a href="refund-policy.php">Refund Policy</a> | <a href="privacypolicy.htm">Privacy Policy</a> | &copy; <script>new Date().getFullYear()>document.write(new Date().getFullYear());</script> Copyright: <a href="https://www.remyfrancis.com"> Remy Francis Web Development</a>
+        <a href="sitemap.xml">Sitemap</a> | <a href="pricing.php">Pricing</a> | <a href="refund-policy.php">Refund Policy</a> | <a href="privacypolicy.php">Privacy Policy</a> | &copy; <script>new Date().getFullYear()>document.write(new Date().getFullYear());</script> Copyright: <a href="https://www.remyfrancis.com"> Remy Francis Web Development</a>
         </div>
     </div>
     <!--/.Copyright-->

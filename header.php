@@ -91,8 +91,8 @@
                             </a>
                             </li>
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="services/small-business-website-packages.php">
-                                <i class="fas fa-cubes fa-lg pl-1 pr-3"></i>Small Business Website Packages
+                            <a class="menu-item pl-0 font-weight-bold" href="">
+                                <i class="fas fa-cubes fa-lg pl-1 pr-3"></i>Small Business Website Packages(Coming Soon)
                             </a>
                             </li>
                         </ul>
@@ -106,8 +106,8 @@
                             </a>
                             </li>
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="services/wordpress-packages.php">
-                                <i class="fab fa-wordpress fa-lg pl-1 pr-3"></i>WordPress Website Packages
+                            <a class="menu-item pl-0 font-weight-bold" href="">
+                                <i class="fab fa-wordpress fa-lg pl-1 pr-3"></i>WordPress Website Packages(Coming Soon)
                             </a>
                             </li>
                         </ul>
@@ -131,8 +131,8 @@
                             </a>
                             </li>
                             <li>
-                            <a class="menu-item pl-0 font-weight-bold" href="services/support-packages.php">
-                                <i class="fas fa-shield-alt fa-lg pl-1 pr-3"></i>Support Packages
+                            <a class="menu-item pl-0 font-weight-bold" href="">
+                                <i class="fas fa-shield-alt fa-lg pl-1 pr-3"></i>Support Packages(Coming Soon)
                             </a>
                             </li>
                         </ul>
@@ -149,7 +149,7 @@
             </ul>
             <ul class="navbar-nav nav-flex-icons">
                 <li class="nav-item">
-                <a class="btn btn-success waves-effect btn-lg btn-rounded btn-lg font-weight-bold" href="http://www.remyfrancis.com/proposal.html">Request A Quote!</a>
+                <a class="btn btn-success waves-effect btn-lg btn-rounded btn-lg font-weight-bold" href="contact.php">Request A Quote!</a>
                 </li>
             </ul>
         </div>

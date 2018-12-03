@@ -3,9 +3,9 @@
     <main>
 
     <section>
-        <div style="background-image: url('https://mdbootstrap.com/img/Photos/Others/slide4.jpg'); background-repeat: no-repeat; background-size: cover;">
+        <div style="background-image: url('img/hero.jpg'); background-repeat: no-repeat; background-size: cover;">
             <!-- Caption -->
-            <div class="full-bg-img  flex-center white-text rgba-stylish-strong">
+            <div class="full-bg-img flex-center white-text mask rgba-black-light">
                 <ul class="animated fadeIn col-md-12 list-unstyled">
                     <li>
                         <h1 class="display-4 font-weight-bold mt-5 pt-5 ">PORTFOLIO</h1>
@@ -22,12 +22,10 @@
         <section class="text-center pb-3">
 
                 <!--Section heading-->
-                <h2 class="font-weight-bold h1 py-5">
-                    <strong>Our best projects</strong>
-                </h2>
+                <h2 class="text-uppercase text-center font-weight-bold my-4 pt-5 wow fadeIn" data-wow-delay="0.2s">Highlighted Projects</h2>
+                <hr class="between-sections">
                 <!--Section description-->
-                <p class="section-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-                    sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="section-description">These are some of the things that I've built.</p>
 
                 <!-- Grid row -->
                 <div class="row">
@@ -52,11 +50,19 @@
                         <h6 class="font-weight-bold indigo-text py-2">Web Application</h6>
                         <!-- Text -->
                         <p class="card-text">Partly Cloudy Scattered Showers is an aptly named web application that provides up-to-date weather forecasts utilizing the OpenWeatherAPI for data while the front-end was built using the React library. Honestly though, the forecasts for the temperature are not likely to be all that accurate as the OpenWeatherAPI's temperature data is often wildly inaccurate to real life. However, this was a project made simply to prove functionality. Let's call it a Minimum Viable Product :)</p>
-                    
+                        <p><strong>Technologies Used:</strong></p>
+                        <ul class="list-unstyled">
+                            <li>JSX</li>
+                            <li>CSS</li>
+                            <li>JavaScript</li>
+                            <li>Bootstrap</li>
+                            <li>React</li>
+                            <li>OpenWeatherAPI</li>
+                        </ul>
                         <!-- Live Demo -->
-                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</a>
+                        <a class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</a>
                         <!-- Source Code -->
-                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</>
+                        <a class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</a>
         
                     
                         </div>
@@ -84,12 +90,19 @@
                             <!-- Subtitle -->
                             <h6 class="font-weight-bold indigo-text py-2">Landing Page Website</h6>
                             <!-- Text -->
-                            <p class="card-text">This is a concept of a landing page</p>
+                            <p class="card-text">This is a concept of a landing page for a local driving and riding school.</p>
+                            <p><strong>Technologies Used:</strong></p>
+                            <ul class="list-unstyled">
+                                <li>HTML5</li>
+                                <li>CSS</li>
+                                <li>JavaScript</li>
+                                <li>Material Bootstrap UI Library</li>
+                            </ul>
                         
                             <!-- Live Demo -->
-                            <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</>
+                            <!--<a class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</a>-->
                             <!-- Source Code -->
-                            <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</b>
+                            <!--<a class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</a>-->
             
                         
                             </div>
@@ -117,12 +130,18 @@
                         <!-- Subtitle -->
                         <h6 class="font-weight-bold indigo-text py-2">Real Estate Website</h6>
                         <!-- Text -->
-                        <p class="card-text">This is a concept of a landing page</p>
+                        <p class="card-text">This is a concept of the home page for a local Real Estate business.</p>
+                        <p><strong>Technologies Used:</strong></p>
+                        <ul class="list-unstyled">
+                            <li>HTML5</li>
+                            <li>CSS</li>
+                            <li>WordPress</li>
+                        </ul>
 
                         <!-- Live Demo -->
-                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</button>
+                        <!--<a class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</a>-->
                         <!-- Source Code -->
-                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</button>
+                        <!--<a class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</a>-->
 
 
                         </div>
@@ -132,7 +151,7 @@
 
 
                     <!-- Portfolio Item -->
-                    <div class="card card-cascade wider reverse">
+                    <div class="card card-cascade wider reverse py-5">
 
                         <!-- Card image -->
                         <div class="view view-cascade overlay">
@@ -150,12 +169,19 @@
                         <!-- Subtitle -->
                         <h6 class="font-weight-bold indigo-text py-2">News Satire Website</h6>
                         <!-- Text -->
-                        <p class="card-text">This is a concept of a landing page</p>
-
+                        <p class="card-text">This is the front page of a popular local satirical news website I built back in 2013 called Island Wide News. I've since taken it down when I transitioned to freelance web development as my part-time gig over satire writing.</p>
+                        <p><strong>Technologies Used:</strong></p>
+                        <ul class="list-unstyled">
+                            <li>HTML5</li>
+                            <li>CSS</li>
+                            <li>JavaScript</li>
+                            <li>PHP</li>
+                            <li>WordPress</li>
+                        </ul>
                         <!-- Live Demo -->
-                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</button>
+                        <!--<a class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://partly-cloudy.herokuapp.com/"><i class="fas fa-lg fa-desktop"></i> Live Demo</a>-->
                         <!-- Source Code -->
-                        <button class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</but>
+                        <!--<a class="px-2 btn btn-success waves-effect btn-lg btn-rounded font-weight-bold" href="https://github.com/remyfrancis/partly-cloudy-scattered-showers"><i class="far fa-lg fa-file-code"></i> Source Code</a>-->
 
 
                         </div>

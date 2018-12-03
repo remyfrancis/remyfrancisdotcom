@@ -11,7 +11,7 @@
                     <h1 class="display-3 mb-2 white-text wow animated fadeInDown delay-1s">REMY <a class="white-text font-weight-bold">FRANCIS</a></h1>
                     <h5 class="font-up mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">Full Stack Web & Mobile Developer</h5>
                     <h5 class="mb-3 mt-1 white-text font-bold wow animated fadeInDown" data-wow-delay="0.4s">I develop awesome cross-platform mobile web apps and websites.</h5>
-                    <a class="btn btn-success waves-effect btn-lg btn-rounded font-weight-bold wow animated fadeInDown" data-wow-delay="0.6s" href="http://www.remyfrancis.com/proposal.html">50% Off Select Layouts Until December 31st</a>
+                    <a class="btn btn-success waves-effect btn-lg btn-rounded font-weight-bold wow animated fadeInDown" data-wow-delay="0.6s" href="deals.php">50% Off Select Layouts Until December 31st</a>
                     </div>
                 </div>
             </div>
@@ -36,7 +36,19 @@
             <h4 class="text-center text-uppercase mb-5 wow fadeIn" data-wow-delay="0.2s">Who <strong>I am</strong>?</h4>
         </div>
         <!--Description-->
-        <p class="grey-text mb-3" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam, dicta ab cupiditate iure eaque? Repellendus voluptatum, magni impedit eaque delectus, beatae maxime temporibus maiores quibusdam quasi.Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus in hic molestias repellendus illo ullam odit quia velit. Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus in hic molestias repellendus illo ullam odit quia velit. Qui expedita sit quo, maxime molestiae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <p class="mb-3" align="justify">
+            Hi there! My name is Remy Francis, and I'm a freelance web developer; building and managing websites for clientele since 2009, working closely with them in order to determine and develop appropriate, efficient web solutions. 
+        </p>
+
+        <p class="mb-3">
+            My skills range from full stack web development to hybrid mobile application development, and I am also currently dabbling in data science. 
+        </p>
+        <p class="mb-3">
+            Anyway, welcome to Remy Francis Web Development: A small business dedicated to delivering Websites, E-Commerce, Web Applications, Progressive Web Applications and Hybrid Mobile App solutions for small-to-medium sized companies and individuals transitioning into online platforms. 
+        </p>
+        <p class="mb-3">
+            I look forward to working with you! <i class="far fa-grin-wink"></i>
+        </p>
         </div>
         <!--/First column-->
         <!--Second column-->
@@ -84,7 +96,7 @@
         </div>
         <br>
         <strong>WEBSITE DEVELOPMENT</strong>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+        <p>Responsive websites that adapt to any screen size, from your mobile phone to your laptop screen. </p>
         </div>
     </div>
     <div class="col-lg-3 col-md-6 text-center mt-1">
@@ -94,7 +106,7 @@
         </div>
         <br>
         <strong>HYBRID APP DEVELOPMENT</strong>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+        <p>Mobile Applications deployable to both iOS and Android devices. </p>
         </div>
     </div>
     <div class="col-lg-3 col-md-6 text-center mt-1">
@@ -104,7 +116,7 @@
         </div>
         <br>
         <strong>WORDPRESS DEVELOPMENT</strong>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+        <p>Edit your website content at your own whim with a WordPress website. </p>
         </div>
     </div>
     <div class="col-lg-3 col-md-6 text-center mt-1">
@@ -114,7 +126,7 @@
         </div>
         <br>
         <strong>SUPPORT SERVICES</strong>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+        <p>I provide security, traffic monitoring and update services, as well as consultation. </p>
         </div>
     </div>
     </div>
@@ -124,9 +136,9 @@
 
 
 <!--Section: Advertising-->
-<div class="container">
+<!--<div class="container">-->
     <?php include('advertising.php'); ?>
-</div>
+<!--</div>-->
 <!--/Section: Advertising-->
 
 
@@ -139,7 +151,7 @@
         <h2 class="text-uppercase text-center font-weight-bold my-4 pt-5 wow fadeIn" data-wow-delay="0.2s">My projects</h2>
         <hr class="between-sections">
         <p class="text-center w-responsive mx-auto mt-5 wow fadeIn" data-wow-delay="0.2s">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum quas, eos officia maiores ipsam ipsum dolores reiciendis ad voluptas, animi obcaecati adipisci sapiente mollitia. </p>
+            Image samples of some of my web projects over the years and some WordPress templates we offer. Feel free to have a browse! See the Portfolio section in the site navigation for more information.  </p>
         </div>
     </div>
     </div>
@@ -156,15 +168,15 @@
         </li>
         <li class="nav-item">
             <a class="nav-link font-weight-bold" data-toggle="tab" href="#panel32" role="tab">
-            <br>BRANDING</a>
+            <br>WEB</a>
         </li>
         <li class="nav-item">
             <a class="nav-link font-weight-bold" data-toggle="tab" href="#panel33" role="tab">
-            <br>PACKAGING</a>
+            <br>WORDPRESS</a>
         </li>
         <li class="nav-item">
             <a class="nav-link font-weight-bold" data-toggle="tab" href="#panel34" role="tab">
-            <br>PRINT DESIGN</a>
+            <br>MOBILE</a>
         </li>
         </ul>
     </div>
@@ -396,9 +408,9 @@
 <section class="section feature-box my-5 pb-5">
 
     <!-- Section title -->
-    <h2 class="text-uppercase text-center font-weight-bold my-4 wow fadeIn" data-wow-delay="0.2s">Process of Creating</h2>
+    <h2 class="text-uppercase text-center font-weight-bold my-4 wow fadeIn" data-wow-delay="0.2s">Development Process</h2>
     <hr class="between-sections">
-    <p class="text-center w-responsive mx-auto wow fadeIn my-5" data-wow-delay="0.2s"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum quas, eos officia maiores ipsam ipsum dolores reiciendis ad voluptas, animi obcaecati adipisci sapiente mollitia.</p>
+    <p class="text-center w-responsive mx-auto wow fadeIn my-5" data-wow-delay="0.2s"> My 5-Phase breakdown of how I'll be working with you</p>
 
         <!-- Nav tabs -->
         <ul class="nav md-tabs nav-justified elegant-color-dark" role="tablist">
@@ -415,7 +427,7 @@
                 <a class="nav-link" data-toggle="tab" href="#panel4" role="tab">04. Development</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#panel5" role="tab">05. Delivery</a>
+                <a class="nav-link" data-toggle="tab" href="#panel5" role="tab">05. Deployment</a>
             </li>
         </ul>
         <!-- Tab panels -->
@@ -424,9 +436,9 @@
             <div class="tab-pane fade in show active" id="panel1" role="tabpanel">
                 <br>
                 <div class="row mt-2">
-                    <div class="col-2 text-center"> <i class="fas fa-comments fa-3x mb-1 grey-text" aria-hidden="true"></i> </div>
+                    <div class="col-2 text-center"> <i class="fas fa-comments fa-3x mb-1 green-text" aria-hidden="true"></i> </div>
                     <div class="col-9 mb-2">
-                        <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit magnam minima, soluta doloribus reiciendis molestiae placeat unde eos molestias. Quisquam aperiam, pariatur. Tempora, placeat ratione porro voluptate odit minima.</p>
+                        <p class="dark-grey-text">Shoot me an email, give me a ring by phone or send me a WhatsApp message. We'll discuss your idea, needs and the logistics involved, and then determine if my services are the right fit for you. </p>
                     </div>
                 </div>
             </div>
@@ -436,9 +448,9 @@
             <div class="tab-pane fade in show" id="panel2" role="tabpanel">
                 <br>
                 <div class="row mt-2">
-                    <div class="col-2 text-center"> <i class="fas fa-book fa-3x mb-1 grey-text" aria-hidden="true"></i> </div>
+                    <div class="col-2 text-center"> <i class="fas fa-book fa-3x mb-1 green-text" aria-hidden="true"></i> </div>
                     <div class="col-9 mb-2">
-                        <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit magnam minima, soluta doloribus reiciendis molestiae placeat unde eos molestias. Quisquam aperiam, pariatur. Tempora, placeat ratione porro voluptate odit minima.</p>
+                        <p class="dark-grey-text">Following first contact, I take some time to research, plan and organize in order to better guarantee mission success. Within 14 days I will send you a proposal and quotation for prospective costs and requirements as well as a guide on what you need to do next should you accept.</p>
                     </div>
                 </div>
             </div>
@@ -448,9 +460,9 @@
             <div class="tab-pane fade" id="panel3" role="tabpanel">
                 <br>
                 <div class="row mt-2">
-                    <div class="col-2 text-center"> <i class="fas fa-pencil-ruler fa-3x mb-1 grey-text" aria-hidden="true"></i> </div>
+                    <div class="col-2 text-center"> <i class="fas fa-pencil-ruler fa-3x mb-1 green-text" aria-hidden="true"></i> </div>
                     <div class="col-9 mb-2">
-                        <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit magnam minima, soluta doloribus reiciendis molestiae placeat unde eos molestias. Quisquam aperiam, pariatur. Tempora, placeat ratione porro voluptate odit minima. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <p class="dark-grey-text">Time for mock-ups! I will present wireframes, templates and examples until we determine what works for you before moving on to the next phase.</p>
                     </div>
                 </div>
             </div>
@@ -460,9 +472,9 @@
             <div class="tab-pane fade" id="panel4" role="tabpanel">
                 <br>
                 <div class="row mt-2">
-                    <div class="col-2 text-center"> <i class="fa fa-code fa-3x mb-1 grey-text" aria-hidden="true"></i> </div>
+                    <div class="col-2 text-center"> <i class="fa fa-code fa-3x mb-1 green-text" aria-hidden="true"></i> </div>
                     <div class="col-9 mb-2">
-                        <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit magnam minima, soluta doloribus reiciendis molestiae placeat unde eos molestias. Quisquam aperiam, pariatur. Tempora, placeat ratione porro voluptate odit minima. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <p class="dark-grey-text">Now comes my favourite part (also the longest). During this phase, I build your solution. Honestly, this is going to take more time than the previous phases, but its so you receive a <strong>quality</strong> product in the end. Worry not, I will keep you updated as each development milestone is reached or if any hang-ups occur. </p>
                     </div>
                 </div>
             </div>
@@ -472,9 +484,9 @@
             <div class="tab-pane fade" id="panel5" role="tabpanel">
                 <br>
                 <div class="row mt-2">
-                    <div class="col-2 text-center"> <i class="fas fa-thumbs-up fa-3x mb-1 grey-text" aria-hidden="true"></i> </div>
+                    <div class="col-2 text-center"> <i class="fas fa-thumbs-up fa-3x mb-1 green-text" aria-hidden="true"></i> </div>
                     <div class="col-9 mb-2">
-                        <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit magnam minima, soluta doloribus reiciendis molestiae placeat unde eos molestias. Quisquam aperiam, pariatur. Tempora, placeat ratione porro voluptate odit minima. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <p class="dark-grey-text">The project is ready for deployment at this phase. After final payment is received, I upload, test everything again to make sure that all is in working order and then we launch!</p>
                     </div>
                 </div>
             </div>
@@ -598,7 +610,7 @@
                             <div class="card-body form">
                                 <!--Header-->
                                 <div class="formHeader mb-1 pt-3 text-center">
-                                    <h3 class="display-4"><i class="fa fa-envelope"></i> Let's Start Building That Solution</h3>
+                                    <h3 class="text-uppercase text-center font-weight-bold my-4 wow fadeIn"><i class="fa fa-envelope"></i> Let's Start Building That Solution</h3>
                                 </div>
 
                                 <br>
@@ -717,7 +729,10 @@
 <!-- Footer -->
 <?php include('footer.php'); ?>
 
-
+    <script>
+        //Animation init
+        new WOW().init();
+    </script>
 
     <!-- Form Validation -->
     <script>
@@ -749,8 +764,6 @@
             document.getElementById('contact-form').submit();
                 
         }
-        //Animation init
-        new WOW().init();
     </script>
 </body>
 

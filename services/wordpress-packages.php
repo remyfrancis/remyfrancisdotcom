@@ -4,9 +4,9 @@
 <main>
 
 <section>
-    <div style="background-image: url('https://mdbootstrap.com/img/Photos/Others/slide4.jpg'); background-repeat: no-repeat; background-size: cover;">
+    <div style="background-image: url('../img/hero.jpg'); background-repeat: no-repeat; background-size: cover;">
         <!-- Caption -->
-        <div class="full-bg-img  flex-center white-text rgba-stylish-strong">
+        <div class="full-bg-img  flex-center white-text mask rgba-black-light">
             <ul class="animated fadeIn col-md-12 list-unstyled">
                 <li>
                     <h1 class="display-4 font-weight-bold mt-5 pt-5 ">WORDPRESS WEBSITE PACKAGES</h1>
